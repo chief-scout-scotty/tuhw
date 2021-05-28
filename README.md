@@ -3,7 +3,7 @@ The Ultimate Hidden Wiki
 
 This project has been released in the aim of providing safe DarkWeb links list, without any DOWN URL.
 
-SCAM links should be excluded from this list, for the first reason that commercial links are not present here.
+SCAM links should also be excluded from this list, for the first reason that commercial links are not present here.
 
 Moreover, this project should propose really uncensored content, which is not the case within Hidden Wikis currently online.
 
